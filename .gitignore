@@ -1,3 +1,4 @@
 terraform_setup/terraform.tfvars
+terraform_setup/.terraform/*
 node_modules
 .DS_Store
